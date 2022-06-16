@@ -47,6 +47,14 @@ ul
   border-bottom:  1px solid #ECECEC;
 }
 
+.portfolio-name {
+  border-left: 1px solid #EEEEEE;
+  border-right: 1px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+
+
 /* .staff-card {
   margin-left: 30px;
 } */
@@ -184,11 +192,9 @@ ul
 }
 
 .container {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 1200px;
   padding: 0 15px;
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .btn {
@@ -407,26 +413,29 @@ ul
 }
 
 .staff {
-  margin-top: 30px;
 }
 
 .staff-profil {
   margin-top: 10px;
 }
 
-.title-name {
+.portfolio-name {
+  padding: 24px 20px;
+}
+
+/* .title-name {
   margin-top: 20px;
   margin-left: 24px;
   margin-right: 24px;
   margin-bottom: 20px;
 
-}
+} */
 
 .title-product {
   margin-top: 4px;
-  margin-left: 24px;
+  /* margin-left: 24px;
   margin-right: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 20px; */
 }
 
 
@@ -488,6 +497,11 @@ ul
     color: #2196F3;
 }
 
+.staff-name {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 
 
 .text-default {
@@ -509,4 +523,9 @@ ul
 .contacts-link-header:focus{
   color: #2196F3;
 
+}
+
+.header-buttom:hover,
+.header-buttom:focus {
+color: #2196F3;
 }
