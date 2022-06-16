@@ -5,11 +5,11 @@ body {
 
 /* Logo */
 .logo-black {
-    color: black;
+  color: black;
 }
 
-.logo-white { 
-    color: #FFFFFF;
+.logo-white {
+  color: #FFFFFF;
 
 }
 
@@ -108,7 +108,6 @@ ul
 
 .item-list .staff-card + .staff-card {
   margin-left: 30px;
-  margin-bottom: 30px;
 }
 
 .button {
@@ -130,7 +129,7 @@ ul
 }
 
 .portfolio-photo .list {
-  
+
 }
 
 .contacts-link {
@@ -290,7 +289,7 @@ ul
 .portfolio-photo {
   display: flex;
   justify-content: center;
-  
+
 
 }
 
@@ -342,7 +341,7 @@ ul
   letter-spacing: 0.03em;
   color: #212121;
   margin-bottom: 50px;
-  
+
 }
 
 /* Team */
@@ -389,8 +388,6 @@ ul
 .footer-background {
   background: #2F303A;
   padding: 60px 0;
-  
-    
 }
 
 .portfolio-list {
@@ -478,7 +475,7 @@ ul
   line-height: 2.00;
   letter-spacing: 0.06em;
   color: #212121;
-
+  font-family: 'Roboto';
 }
 
 .title-product {
