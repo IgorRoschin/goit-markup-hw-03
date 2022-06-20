@@ -25,6 +25,7 @@ body {
   color: #2196F3;
 }
 
+
 /* Главная страница */
 
 h1,
@@ -181,7 +182,9 @@ ul
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
-
+  background-image: url('../img/heroimg.jpg');
+  background-size: cover;
+  background-position: center;
 
 
 }
